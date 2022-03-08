@@ -22,7 +22,7 @@ BTC
 3
 > chains[assets.btc.chain].fees.unit
 sat/b
-> chains[assets.eth.chain].isValidAddress('0x5A0b54D5dc17e0AadC383d2db43B0a0D3E029c4c)
+> chains[assets.eth.chain].isValidAddress('0x6C63EDd59C54CAf809ACf55CC26Cb51b9f45C1A2')
 true
 
 ```
